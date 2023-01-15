@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Abaza TV
+http://clients.apsny.camera/tv_abaza_tv/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://clients.apsny.camera/tv_abaza_tv/index.m3u8
+
+#EXTINF:-1 group-title="",Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://clients.apsny.camera/tv_abaza_tv/index.m3u8
+
+#EXTINF:-1 group-title="",Mtavari Arkhi
+https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://clients.apsny.camera/tv_abaza_tv/index.m3u8
+
+#EXTINF:-1 group-title="",Palitra News [Not 24/7]
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://clients.apsny.camera/tv_abaza_tv/index.m3u8
+
+#EXTINF:-1 group-title="",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://clients.apsny.camera/tv_abaza_tv/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://clients.apsny.camera/tv_abaza_tv/index.m3u8
