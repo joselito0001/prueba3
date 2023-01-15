@@ -156,13 +156,13 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 #EXTINF:-1 group-title="",espejo
 https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
 
-#EXTINF:-1 ,Wéo (Hauts-de-France) [Not 24/7]
+#EXTINF:-1 group-title="",Wéo (Hauts-de-France) [Not 24/7]
 https://live.digiteka.com/1/WGQ1NnhEN0lzM0NU/dk1EOHhw/hls/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",espejo
 https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
 
-#EXTINF:-1 ,Wéo (Picardie) [Not 24/7]
+#EXTINF:-1 group-title="",Wéo (Picardie) [Not 24/7]
 https://live.digiteka.com/1/Zks2L0VsM2V0T242/QTBqcFly/hls/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",espejo
