@@ -1,0 +1,170 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+https://od.lk/s/MF8yNDU0MDkxNTNf/ICI-RDI.png
+
+#EXTINF:-1 group-title="",Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
+https://od.lk/s/MF8yNDU0MDYzMTZf/CanalSavoir_363x363.png
+
+#EXTINF:-1 group-title="",LCN
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+https://i.imgur.com/JHOyrgA.png
+
+#EXTINF:-1 group-title="",Noovo (1)
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+https://od.lk/s/MF8yNDU0MDY4Mzlf/Noovo_608x608.png
+
+#EXTINF:-1 group-title="",Noovo (2)
+https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
+https://od.lk/s/MF8yNDU0MDY4Mzlf/Noovo_608x608.png
+
+#EXTINF:-1 group-title="",Télé-Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+https://od.lk/s/MF8yNDU0MDY3MDFf/TeleQuebecCA_535x535.png
+
+#EXTINF:-1 group-title="",ICI télévision
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+http://icitelevision.ca/wp-content/uploads/2017/10/logoretina.png
+
+#EXTINF:-1 group-title="",CTBTV
+https://fl001.elpcinc.com/CTB-TV/index.m3u8
+https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png
+
+#EXTINF:-1 group-title="",RogersTV Moncton Français
+https://5e7c60955a878.streamlock.net/rtv_live/m21_card4/playlist.m3u8
+https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png
+
+#EXTINF:-1 group-title="",RogersTV Edmundston Français
+https://5e7c60955a878.streamlock.net/rtv_live/m28_card1/playlist.m3u8
+https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png
+
+#EXTINF:-1 group-title="",RogersTV Ottawa Français
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m31_card4/chunklist.m3u8
+https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png
+
+#EXTINF:-1 group-title="",Ontario OLA Network
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+https://od.lk/s/MF8yMjQyNTQ4Njhf/OntParl_450x450.png
+
+#EXTINF:-1 group-title="",CPAC
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+https://i.imgur.com/5ym6eJS.png
+
+#EXTINF:-1 group-title="",CBC News Highlights
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8
+https://od.lk/s/MF8yMzMyNDA0OTVf/CBCNews_v2_422x422.png
+
+#EXTINF:-1 group-title="",Global News National
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png
+
+#EXTINF:-1 group-title="",Global News Okanagan
+https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
+https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png
+
+#EXTINF:-1 group-title="",Global News BC
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png
+
+#EXTINF:-1 group-title="",Global News Calgary
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
+https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png
+
+#EXTINF:-1 group-title="",Global News Edmonton
+https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
+https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png
+
+#EXTINF:-1 group-title="",Global News Halifax
+https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png
+
+#EXTINF:-1 group-title="",Global News Kingston
+https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
+https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png
+
+#EXTINF:-1 group-title="",Global News Montreal
+https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
+https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png
+
+#EXTINF:-1 group-title="",Global News Peterborough
+https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
+ https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png
+
+#EXTINF:-1 group-title="📺 Canada English",Global News Regina
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png
+
+#EXTINF:-1 group-title="",Global News Saskatoon
+https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
+https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png
+
+#EXTINF:-1 group-title="",Global News Toronto
+https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
+https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png
+
+#EXTINF:-1 group-title="",Global News Winnipeg
+https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
+https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png
+
+#EXTINF:-1 group-title="",RogersTV Moncton
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m28_card2/chunklist.m3u8
+https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png
+
+#EXTINF:-1 group-title="",RogersTV Ottawa
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m31_card3/chunklist.m3u8
+https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png
+
+#EXTINF:-1 group-title="",CTV Live
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+https://www.videotron.com/resources/global/images/chaines/ctv.jpg
+
+#EXTINF:-1 group-title="",City News Toronto 24/7
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+https://od.lk/s/MF8yNjU0ODMyODlf/CityNews_690x690.png
+
+#EXTINF:-1 group-title="",Knowledge Network
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+https://od.lk/s/MF8yNDU0MDU2MDdf/KnowledgeNetwork_235x235.png
+
+#EXTINF:-1 group-title="",The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u
+https://od.lk/s/MF8yNDU0MDU3NjVf/TSC-Canada_200x200.png
+
+#EXTINF:-1 group-title="",NTV Newfoundland
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+https://od.lk/s/MF8yMzQzMDExODVf/NTV-CA_400x400.png
+
+#EXTINF:-1 group-title="",EWTN Canada
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+https://od.lk/s/MF8yMjQyNTQ1MzNf/EWTN_450x450.png
+
+#EXTINF:-1 group-title="",EWTN Europe
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+https://od.lk/s/MF8yMjQyNTQ1MzNf/EWTN_450x450.png
+
+#EXTINF:-1 group-title="",EWTN Asia-Pacific
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+https://od.lk/s/MF8yMjQyNTQ1MzNf/EWTN_450x450.png
+
+#EXTINF:-1 group-title="",Salt + Light TV
+https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+https://od.lk/s/MF8yMjQyNzI4NDNf/SaltAndLight_900x900.png
+
+#EXTINF:-1 group-title="",Amazing Discoveries
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+https://od.lk/s/MF8yMjQyNTQ1MzJf/AmazingDiscoveries_430x430.png
+
+#EXTINF:-1 group-title="",CPAC TV
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+https://od.lk/s/MF8yNDU0MDU4OTlf/CPAC_360x360.png
+
+#EXTINF:-1 group-title="",Ontario OLA Network
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+https://od.lk/s/MF8yMjQyNTQ4Njhf/OntParl_450x450.png
+
+
+#EXTINF:-1 group-title="",espejo
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+https://od.lk/s/MF8yMjQyNTQ4Njhf/OntParl_450x450.png
