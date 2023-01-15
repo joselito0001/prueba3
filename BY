@@ -1,0 +1,76 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Беларусь 3  [Not 24/7]
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Belarus 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Первый Музыкальный Канал
+http://hz1.teleport.cc/HLS/SD.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Первый Музыкальный Канал Int
+http://rtmp.one.by:1200
+
+#EXTINF:-1 group-title="",espejo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Первый Музыкальный Канал Россия
+http://rtmp.one.by:2200
+
+#EXTINF:-1 group-title="",espejo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",ОНТ (576p) [Not 24/7]
+https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Витебск [Not 24/7]
+https://flu.vtv.by/tvt-non-by/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Первый Музыкальный Канал 4K
+http://rtmp.one.by:1499
+
+#EXTINF:-1 group-title="",espejo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Первый Музыкальный Канал HD
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",узыкальный Канал HD
+http://rtmp.one.by:1300
+
+#EXTINF:-1 group-title="",espejo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Первый Музыкальный Канал Россия HD
+http://rtmp.one.by:2300
+
+#EXTINF:-1 group-title="",espejo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
