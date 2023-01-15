@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",QTV Gambia [Not 24/7]
+https://player.qtv.gm/hls/live.stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://player.qtv.gm/hls/live.stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://player.qtv.gm/hls/live.stream.m3u8
