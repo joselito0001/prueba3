@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",BFM Grand Lille
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",BFM Grand Littoral
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",BIP TV [Not 24/7]
+http://biptv.tv/live/biptvstream_orig/index.m3u8
+
+#EXTINF:-1 group-title="",Central TV [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="",DBM
+https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
+
+#EXTINF:-1 group-title="",DBM TV
+http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+
+#EXTINF:-1 ,FashionTV Czech&Slovak [Not 24/7]
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="",Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="",Generations TV
+https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+
+#EXTINF:-1 group-title="",MCM Top
+http://ott-cdn.ucom.am/s49/index.m3u8
+
+#EXTINF:-1 group-title="",MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Mezzo
+http://ott-cdn.ucom.am/s35/index.m3u8
+
+#EXTINF:-1 ,viàMoselleTV [Not 24/7]
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",MyZen TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+
+#EXTINF:-1 group-title="",Public Sénat [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xkxbzc
+
+#EXTINF:-1 group-title="",Sport En France
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
+
+#EXTINF:-1 group-title="",TeleSud
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wrxqb
+
+#EXTINF:-1 group-title="",TF1
+https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+
+#EXTINF:-1 group-title="",TFX
+https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
+
+#EXTINF:-1 group-title="",TMC
+https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
+
+#EXTINF:-1 group-title="",TV5Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 group-title="",TV7 Bordeaux
+http://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/live/playlist.m3u8
+
+#EXTINF:-1 group-title="",TV78
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+
+#EXTINF:-1 group-title="",TV Pitchoun
+https://live.tvradio-pitchoun.fr/hls/live.m3u8
+
+#EXTINF:-1 group-title="",TVR (Bretagne)
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+
+#EXTINF:-1 group-title="" ,viàOccitanie [Not 24/7]
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+
+#EXTINF:-1 ,Wéo (Hauts-de-France) [Not 24/7]
+https://live.digiteka.com/1/WGQ1NnhEN0lzM0NU/dk1EOHhw/hls/live/playlist.m3u8
+
+#EXTINF:-1 ,Wéo (Picardie) [Not 24/7]
+https://live.digiteka.com/1/Zks2L0VsM2V0T242/QTBqcFly/hls/live/playlist.m3u8
+
+#EXTINF:-1 group-title="",Fun Radio
+https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
