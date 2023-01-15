@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Himlen TV7
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",INEZ
+https://inezsecondary.digitacdn.net/live/_definst_/inez/amlst:inezlive.amlst/master.m3u8
+
+#EXTINF:-1 group-title="",KotiTV
+https://kotitv.digitacdn.net/amlst:kotitv.amlst/playlist.m3u8
+
+#EXTINF:-1 group-title="",NärTV
+https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="",Небеса ТВ7
+https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Taevas TV7
+https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Taivas TV7
+https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
